@@ -71,7 +71,7 @@ namespace MoodAnalyzerMSTest
                 expected.Equals(obj);
             }
 
-            //--------Test Case 5--------------//
+            //Test Case 5
             [TestMethod]
             public void GivenMoodAnalyzeClassNameShouldReturnObjectUsingParameterizedConstructor()
             {
